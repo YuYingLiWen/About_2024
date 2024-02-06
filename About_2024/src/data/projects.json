@@ -1,0 +1,73 @@
+{
+    "projects":
+    [
+        {
+            "title": "CV Website",
+            "time-from-month" : "January",
+            "time-from-year" : "2022",
+            "time-to-month" : "December",
+            "time-to-year" : "2023",
+            "description": "Started back in 2022 as a quick and dirty curiculum vitae website. In 2023, decided to learn JS/CSS/HTML seriously to make the website look professional.",
+            "technologies-used":
+            [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "JSON"
+            ],
+            "media": null,
+            "media-description": "An image of my curriculum vitae website."
+        },
+        {
+            "title": "Yurock",
+            "time-from-month" : "January",
+            "time-from-year" : "2022",
+            "time-to-month" : "December",
+            "time-to-year" : "2023",
+            "description": "Started back in 2022 as a quick and dirty curiculum vitae website. In 2023, decided to learn JS/CSS/HTML seriously to make the website look professional.",
+            "technologies-used":
+            [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "JSON"
+            ],
+            "media":"Danbar.gif",
+            "media-description": "A gif showcasing gameplay elements of the game Danbar."
+        },
+        {
+            "title": "Playground",
+            "time-from-month" : "January",
+            "time-from-year" : "2022",
+            "time-to-month" : "December",
+            "time-to-year" : "2023",
+            "description": "Started back in 2022 as a quick and dirty curiculum vitae website. In 2023, decided to learn JS/CSS/HTML seriously to make the website look professional.",
+            "technologies-used":
+            [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "JSON"
+            ],
+            "media":"Playground.gif",
+            "media-description": "A gif showcasing gameplay elements of the game Playground."
+        },
+        {
+            "title": "Block Breaker",
+            "time-from-month" : "January",
+            "time-from-year" : "2022",
+            "time-to-month" : "December",
+            "time-to-year" : "2023",
+            "description": "Started back in 2022 as a quick and dirty curiculum vitae website. In 2023, decided to learn JS/CSS/HTML seriously to make the website look professional.",
+            "technologies-used":
+            [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "JSON"
+            ],
+            "media":"Old-brick-breaker-demo.gif",
+            "media-description": "A gif showcasing gameplay elements I made for my brick breaker game."
+        }
+    ]
+}
