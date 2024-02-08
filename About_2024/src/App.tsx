@@ -1,16 +1,14 @@
-import NavigationHeader from './Components/NavigationHeader'
+import NavigationHeader from "./HeaderNavigation/NavigationHeader";
 
-import './App.css'
-
-
+import UseStateUseEffectExample from "./UseStateUseEffectExample";
 
 function App() {
   return (
     <>
       <NavigationHeader />
-      <p>Hello World 2</p>
+      <UseStateUseEffectExample />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
